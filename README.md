@@ -5,6 +5,7 @@ Additionally, a time-series analysis helps an organization detect when a commodi
 The best way to get the most of a time-series analysis is by visualizing it using eg with a scatter-plot, line chart or any other appropriate data visualizing tool at your disposal
 
 Steps to a Time-Series Analysis
+
 **1. Data Collection**
 Gather all the relevant information you need for your analysis may it be sales records, website logs, order histories, date and time stamps any relevant information for your analysis should be available
 
